@@ -1,0 +1,8 @@
+ Explorative Data Analysis of Healthcare Dataset
+ The notebook provides the:
+    •Descriptive statistics of the health data
+    •Correlation of variables by Bivariate analysis
+    •Visualization of the data using Bar graphs, Point plot, and a Heatmap
+    •Findings from the data.
+
+    ****Language used is Python****
